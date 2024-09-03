@@ -22,4 +22,28 @@
 ![image](https://github.com/user-attachments/assets/4c80c909-3021-4b5e-affa-5118778730e0)
 
 
+# ResNet50
+
+## New Model
+![image](https://github.com/user-attachments/assets/11eeccfe-c3c3-4b8c-ba81-276c63239c2a)
+
+![image](https://github.com/user-attachments/assets/8f8abbbd-4b33-4828-ab76-e3d51187a667)
+
+![image](https://github.com/user-attachments/assets/9a9c7270-fad6-40ff-85c7-97fd6a89e8e3)
+
+## Original Model
+
+![image](https://github.com/user-attachments/assets/6a40fe7e-b769-4a70-9ad4-9c6d5ed2462c)
+
+![image](https://github.com/user-attachments/assets/1fed36b8-4333-4efa-9e0b-fb001ba3b557)
+
+![image](https://github.com/user-attachments/assets/e7d277ff-1686-4185-989a-96e93cee673f)
+
+
+
+
+
+
+
+
 
